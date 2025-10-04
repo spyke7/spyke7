@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;Shreejan-a.k.a-the-coder-boy+👨‍💻;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-
 <h1 align="center"> Hey there, This is Shreejan 👋 </h1> 
 
 <br/>
@@ -44,7 +40,7 @@
 ## Github Stats
 | Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![the-coder-boy's github stats](https://github-readme-stats.vercel.app/api?username=the-coder-boy&show_icons=true&theme=radical&include_all_commits=true) | ![the-coder-boy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-boy&theme=radical&layout=compact) |
+| ![spyke7's github stats](https://github-readme-stats.vercel.app/api?username=spyke7&show_icons=true&theme=radical&include_all_commits=true) | ![spyke7's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spyke7&theme=radical&layout=compact) |
 
 </br></br></br>
 
